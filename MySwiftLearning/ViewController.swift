@@ -74,7 +74,7 @@ print(total)
             print( "Hello \(person), today is \(day)")
             return "Hello"
         }
-        greet(person: "Bob" , day: "Tuesdat")
+        greet(person: "Bob" , day: "Tuesdat");
     }
 }
 
